@@ -1,5 +1,11 @@
 # Sample script
 
+def hello_world():
+    """
+    A simple function that returns the string "Hello World!".
+    """
+    return "Hello World!"
+
 def calculate_sum(a, b):
     """
     A simple function to calculate the sum of two numbers.
